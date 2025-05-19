@@ -66,6 +66,7 @@ nav .menu {
 .secao1 { 
   width: 40%;
   height: auto;
+  margin-left: 20%;
 }
 .conteudo {
   display: flex;

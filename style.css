@@ -1,14 +1,14 @@
 :root{
-  --cor-de-fundo: lch(100% 0.01 296.81);
-  --cor-de-texto:#316838;
-  --cor-texto-dois:#138d2e;
+  --cor-de-fundo: lch(30.18% 31.7 140.13);
+  --cor-de-texto:#ffffff;
+  --cor-texto-dois:#ffffff;
 }
 
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 2;
-  color: #3c7946;
+  color: #e5e6e5;
 }
 
 header {
